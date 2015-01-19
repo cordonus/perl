@@ -1,4 +1,4 @@
-#!C:\Perl64\bin
+#!C:\Perl64\bin\perl
 #Last exercise of chapter one
 
 print "Give me a word.\n";

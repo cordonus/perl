@@ -1,2 +1,2 @@
-#!C:\Perl64\bin
+#!C:\Perl64\bin\perl
 	print "Hello, World!\n"

@@ -1,4 +1,4 @@
-#!C:\Perl64\bin
+#!C:\Perl64\bin\perl
 #First script made using the ATOM text editor for github
 use warnings;  #just testing so adding warning
 use diagnostics; #going to test diagnostics out
